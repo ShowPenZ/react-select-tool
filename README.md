@@ -21,7 +21,7 @@ class App extends React.Component {
       console.log(txt, target, num);
     };
 
-    return <SelectText handler={handler} onClick={onClick}>这是一个测试 文本!</SelectText>;
+    return <SelectText handler={handler}>这是一个测试 文本!</SelectText>;
   }
 }
 
