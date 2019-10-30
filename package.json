@@ -1,6 +1,6 @@
 {
   "name": "react-select-tool",
-  "version": "1.0.3",
+  "version": "1.0.2",
   "description": "a select-text-tool component for React",
   "main": "dist/SelectText.min.js",
   "scripts": {
