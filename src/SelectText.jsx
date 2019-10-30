@@ -48,7 +48,7 @@ class SelectText extends React.Component {
     const that = this;
     const { handler } = that.props;
 
-    selectedText(document, handler);
+    selectTextFn(document, handler);
   }
 
   render() {
